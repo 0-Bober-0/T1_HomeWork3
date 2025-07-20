@@ -1,13 +1,13 @@
-package ru.t1.daev.bishopstarter;
+package ru.t1.daev.bishopprototype;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BishopStarterApplicationTests {
+class BishopPrototypeApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }

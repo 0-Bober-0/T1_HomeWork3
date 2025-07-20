@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BishopStarterApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(BishopStarterApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(BishopStarterApplication.class, args);
+	}
 
 }
